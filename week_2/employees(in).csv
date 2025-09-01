@@ -1,0 +1,8 @@
+employee_id,name,department,salary,joining_year,bonus_percent
+101,Alice,HR,50000,2018,5
+102,Bob,Finance,60000,2019,7
+103,Charlie,IT,75000,2017,10
+104,David,Finance,62000,2020,6
+105,Eva,IT,80000,2021,12
+106,Frank,HR,52000,2018,5
+107,Grace,IT,90000,2019,15
